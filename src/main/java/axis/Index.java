@@ -52,7 +52,7 @@ public class Index {
     public Object[][] allTests_data() {
         return new Object[][]{
 
-                {new TestData("soyoolag@axis.com", "love2936.")}
+                {new TestData("name@email.com", "password")}
         };
     }
 
